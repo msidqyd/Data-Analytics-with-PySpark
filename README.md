@@ -158,7 +158,7 @@ plt.tight_layout()
 plt.savefig("visual_result_image/img_loyalty_card_point_dist.png")
 plt.show()
 ```
-
+![alt text](image.png)
 >  Aurora card users accumulate the highest average loyalty points (≈ 48,039), followed closely by Nova and Star.
 
 ---
@@ -173,7 +173,7 @@ spark.sql("""
     ORDER BY average_total_flights_taken DESC
 """).show()
 ```
-
+![alt text](image-1.png)
 >  There's no strong correlation between education level and total flights taken.
 
 ---
@@ -198,7 +198,7 @@ flights_trend = spark.sql("""
     ORDER BY start_of_the_month ASC
 """)
 ```
-
+![alt text](image-2.png)
 >  Peak flight activity is in July, while January sees the lowest.
 
 ---
