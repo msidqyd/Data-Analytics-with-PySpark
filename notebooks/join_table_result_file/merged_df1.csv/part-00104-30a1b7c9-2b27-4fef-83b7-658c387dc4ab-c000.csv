@@ -1,0 +1,65 @@
+loyalty_number,country,province,city,gender,education,salary,marital_status,loyalty_card,enrollment_type,enrollment_year,total_points,total_flights_taken
+109022,Canada,Ontario,Toronto,Female,Bachelor,57960.0,Married,Nova,Standard,,35598.0,27.0
+113529,Canada,Ontario,Toronto,Male,Bachelor,76548.0,Married,Nova,Standard,,13405.0,6.0
+123538,Canada,Ontario,Toronto,Female,Bachelor,62862.0,Married,Star,Standard,,0.0,0.0
+125300,Canada,British Columbia,Vancouver,Male,Bachelor,88198.0,Married,Star,Standard,,57555.0,38.0
+136089,Canada,British Columbia,Dawson Creek,Female,Bachelor,47595.0,Married,Nova,Standard,,39230.0,29.0
+199509,Canada,Ontario,Toronto,Female,Bachelor,47715.0,Divorced,Star,Standard,,43539.0,34.0
+244387,Canada,Yukon,Whitehorse,Male,College,,Divorced,Star,Standard,,58847.0,47.0
+249555,Canada,Ontario,Toronto,Female,College,,Married,Star,Standard,,65874.0,41.0
+270969,Canada,Ontario,Toronto,Female,High School or Below,60347.0,Married,Nova,Standard,,26262.0,13.0
+274410,Canada,Quebec,Montreal,Male,Master,82940.0,Married,Star,Standard,,33324.0,20.0
+290517,Canada,British Columbia,Victoria,Female,Bachelor,68065.0,Single,Aurora,Standard,,0.0,0.0
+306400,Canada,Ontario,Toronto,Female,Doctor,231305.0,Married,Aurora,Standard,,38101.0,26.0
+312455,Canada,British Columbia,West Vancouver,Female,Bachelor,77868.0,Married,Nova,Standard,,69834.0,48.0
+329355,Canada,British Columbia,Vancouver,Female,Bachelor,92259.0,Married,Star,Standard,,61810.0,37.0
+331995,Canada,Quebec,Montreal,Male,Bachelor,95061.0,Married,Nova,Standard,,10232.0,6.0
+337945,Canada,Quebec,Montreal,Female,Bachelor,47215.0,Single,Star,Standard,,52585.0,39.0
+365166,Canada,Ontario,Toronto,Male,Bachelor,56460.0,Married,Star,2018 Promotion,,40359.0,18.0
+384409,Canada,Manitoba,Winnipeg,Female,Doctor,109056.0,Married,Aurora,Standard,,23560.0,14.0
+404339,Canada,British Columbia,Vancouver,Female,College,,Single,Nova,Standard,,28749.0,23.0
+407478,Canada,Manitoba,Winnipeg,Female,Bachelor,46887.0,Single,Nova,Standard,,12095.0,8.0
+407768,Canada,Ontario,Toronto,Female,Bachelor,99562.0,Divorced,Aurora,Standard,,35251.0,29.0
+413052,Canada,British Columbia,Whistler,Male,Bachelor,79053.0,Married,Star,Standard,,43987.0,25.0
+444365,Canada,Ontario,Toronto,Female,Bachelor,61809.0,Married,Star,Standard,,45137.0,30.0
+451839,Canada,Ontario,Toronto,Female,Bachelor,60542.0,Married,Aurora,Standard,,8094.0,8.0
+453578,Canada,Ontario,Thunder Bay,Female,Bachelor,52460.0,Married,Nova,Standard,,6877.0,6.0
+475233,Canada,New Brunswick,Fredericton,Female,College,,Married,Aurora,Standard,,47491.0,31.0
+481018,Canada,Ontario,Toronto,Male,Bachelor,52079.0,Married,Star,Standard,,48859.0,36.0
+502573,Canada,Quebec,Hull,Male,Doctor,215254.0,Married,Star,2018 Promotion,,100926.0,48.0
+538795,Canada,Quebec,Tremblant,Male,Bachelor,51034.0,Married,Nova,Standard,,27939.0,17.0
+544837,Canada,Ontario,Toronto,Male,Bachelor,90071.0,Divorced,Nova,Standard,,74202.0,53.0
+558097,Canada,Ontario,Toronto,Female,Bachelor,59663.0,Married,Star,Standard,,38635.0,26.0
+573681,Canada,Quebec,Montreal,Male,Bachelor,52712.0,Married,Aurora,Standard,,69227.0,45.0
+594649,Canada,Ontario,Ottawa,Female,Bachelor,49425.0,Married,Star,Standard,,59226.0,39.0
+603674,Canada,British Columbia,Vancouver,Male,College,,Married,Nova,Standard,,56707.0,38.0
+619337,Canada,Quebec,Montreal,Female,Bachelor,93688.0,Married,Star,Standard,,14490.0,12.0
+643669,Canada,Ontario,Toronto,Female,Bachelor,67227.0,Divorced,Aurora,Standard,,58600.0,36.0
+654751,Canada,New Brunswick,Fredericton,Female,Bachelor,58034.0,Single,Star,Standard,,68320.0,45.0
+672170,Canada,Ontario,London,Male,Bachelor,60054.0,Single,Aurora,Standard,,44184.0,35.0
+679607,Canada,Ontario,Toronto,Male,High School or Below,55043.0,Married,Star,Standard,,41928.0,33.0
+687525,Canada,Quebec,Quebec City,Female,Bachelor,86098.0,Married,Star,Standard,,55394.0,38.0
+697091,Canada,Alberta,Calgary,Female,Bachelor,89373.0,Married,Star,Standard,,53269.0,34.0
+704835,Canada,British Columbia,Whistler,Male,Bachelor,80697.0,Married,Star,Standard,,62292.0,40.0
+711577,Canada,Ontario,Toronto,Female,Bachelor,50723.0,Married,Aurora,Standard,,45934.0,35.0
+745938,Canada,British Columbia,Whistler,Male,Bachelor,72312.0,Married,Star,Standard,,0.0,0.0
+747816,Canada,Ontario,Toronto,Female,Bachelor,82578.0,Married,Nova,Standard,,0.0,0.0
+757047,Canada,British Columbia,Vancouver,Male,Bachelor,59262.0,Married,Nova,Standard,,59826.0,38.0
+779046,Canada,British Columbia,Vancouver,Male,College,,Single,Star,Standard,,47967.0,41.0
+784570,Canada,Quebec,Hull,Female,High School or Below,44092.0,Single,Aurora,Standard,,33046.0,22.0
+797391,Canada,British Columbia,Vancouver,Male,Doctor,299953.0,Divorced,Aurora,Standard,,0.0,0.0
+799157,Canada,Ontario,Sudbury,Male,Master,121081.0,Divorced,Star,Standard,,30139.0,22.0
+837615,Canada,British Columbia,Vancouver,Female,High School or Below,55801.0,Married,Nova,Standard,,0.0,0.0
+870022,Canada,Ontario,Kingston,Female,Bachelor,70964.0,Married,Star,Standard,,48991.0,36.0
+886677,Canada,Ontario,Toronto,Male,Bachelor,100596.0,Divorced,Star,Standard,,76842.0,49.0
+887192,Canada,Ontario,Thunder Bay,Male,College,,Married,Star,Standard,,17484.0,11.0
+893127,Canada,British Columbia,Vancouver,Female,Bachelor,56644.0,Divorced,Star,Standard,,8835.0,6.0
+921403,Canada,New Brunswick,Fredericton,Female,Bachelor,83022.0,Married,Aurora,Standard,,19135.0,11.0
+925504,Canada,British Columbia,Vancouver,Male,Bachelor,103435.0,Divorced,Nova,Standard,,46969.0,32.0
+949612,Canada,Ontario,Trenton,Male,Bachelor,88082.0,Married,Nova,Standard,,602.0,1.0
+958299,Canada,Ontario,Thunder Bay,Female,College,,Single,Star,Standard,,41953.0,24.0
+975497,Canada,Quebec,Tremblant,Male,Bachelor,50137.0,Married,Star,Standard,,46206.0,32.0
+976330,Canada,British Columbia,Victoria,Male,Bachelor,67684.0,Married,Star,Standard,,0.0,0.0
+980837,Canada,Quebec,Montreal,Female,Bachelor,68308.0,Married,Nova,Standard,,21684.0,20.0
+984086,Canada,New Brunswick,Moncton,Male,Bachelor,102525.0,Married,Aurora,Standard,,65707.0,39.0
+999272,Canada,British Columbia,Victoria,Female,Bachelor,84988.0,Married,Star,Standard,,63018.0,45.0

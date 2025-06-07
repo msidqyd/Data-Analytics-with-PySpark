@@ -1,0 +1,96 @@
+loyalty_number,country,province,city,gender,education,salary,marital_status,loyalty_card,enrollment_type,enrollment_year,total_points,total_flights_taken
+102464,Canada,Quebec,Montreal,Male,Bachelor,60563.0,Married,Star,Standard,,17067.0,14.0
+109956,Canada,Ontario,Toronto,Female,Bachelor,89320.0,Married,Star,Standard,,27586.0,16.0
+110211,Canada,Ontario,Toronto,Female,Bachelor,64417.0,Single,Nova,Standard,,38248.0,26.0
+117408,Canada,Saskatchewan,Regina,Female,College,,Married,Aurora,Standard,,73206.0,44.0
+117725,Canada,British Columbia,Dawson Creek,Female,Bachelor,80107.0,Married,Nova,Standard,,0.0,0.0
+128753,Canada,Ontario,Toronto,Female,Doctor,198691.0,Divorced,Star,Standard,,0.0,0.0
+157771,Canada,Saskatchewan,Regina,Female,Bachelor,66038.0,Married,Nova,Standard,,12591.0,10.0
+173227,Canada,British Columbia,Vancouver,Female,Bachelor,85897.0,Married,Nova,Standard,,28176.0,15.0
+189775,Canada,Ontario,Toronto,Male,College,,Single,Aurora,Standard,,62411.0,52.0
+189836,Canada,Saskatchewan,Regina,Female,Bachelor,82395.0,Married,Aurora,Standard,,65217.0,49.0
+192772,Canada,Ontario,Trenton,Male,Bachelor,85944.0,Married,Nova,Standard,,0.0,0.0
+194009,Canada,Ontario,Toronto,Female,Bachelor,104352.0,Married,Aurora,Standard,,40979.0,25.0
+212230,Canada,British Columbia,Vancouver,Male,Bachelor,63225.0,Married,Aurora,Standard,,69035.0,50.0
+217802,Canada,Quebec,Quebec City,Male,College,,Single,Star,Standard,,28253.0,19.0
+243726,Canada,British Columbia,Victoria,Male,Bachelor,74123.0,Divorced,Aurora,Standard,,0.0,0.0
+260155,Canada,British Columbia,West Vancouver,Male,College,,Single,Star,Standard,,70664.0,44.0
+265784,Canada,British Columbia,Vancouver,Female,College,,Married,Aurora,Standard,,0.0,0.0
+274354,Canada,British Columbia,Vancouver,Female,Bachelor,61305.0,Divorced,Nova,Standard,,45226.0,33.0
+286718,Canada,Ontario,Thunder Bay,Female,Bachelor,90871.0,Married,Nova,Standard,,44479.0,27.0
+290599,Canada,Nova Scotia,Halifax,Male,Bachelor,71559.0,Married,Aurora,Standard,,41247.0,34.0
+299573,Canada,Ontario,Toronto,Female,Bachelor,84834.0,Married,Nova,Standard,,34104.0,32.0
+300845,Canada,British Columbia,Victoria,Female,College,,Single,Star,Standard,,58925.0,40.0
+318561,Canada,Alberta,Banff,Female,Doctor,135147.0,Divorced,Nova,Standard,,70951.0,50.0
+330779,Canada,Ontario,Toronto,Male,Bachelor,66444.0,Married,Nova,Standard,,50263.0,34.0
+347231,Canada,Ontario,Toronto,Female,College,,Divorced,Aurora,Standard,,52088.0,40.0
+364153,Canada,Quebec,Montreal,Female,Bachelor,52821.0,Single,Nova,Standard,,55101.0,41.0
+381539,Canada,Ontario,London,Male,College,,Married,Aurora,Standard,,29513.0,22.0
+384336,Canada,Ontario,Toronto,Male,Bachelor,62517.0,Married,Aurora,Standard,,50433.0,33.0
+385358,Canada,Ontario,Toronto,Male,Bachelor,71321.0,Married,Nova,Standard,,41928.0,25.0
+394812,Canada,British Columbia,Vancouver,Female,Doctor,227341.0,Married,Star,Standard,,52226.0,36.0
+399251,Canada,British Columbia,Dawson Creek,Female,College,,Single,Nova,Standard,,86970.0,53.0
+401859,Canada,Ontario,Ottawa,Male,College,,Single,Nova,Standard,,57756.0,40.0
+425294,Canada,Quebec,Montreal,Female,Bachelor,84781.0,Divorced,Star,Standard,,68759.0,44.0
+429354,Canada,British Columbia,Whistler,Female,Bachelor,88606.0,Married,Nova,Standard,,60499.0,40.0
+433752,Canada,British Columbia,Whistler,Female,Bachelor,77363.0,Married,Nova,Standard,,34100.0,25.0
+446662,Canada,British Columbia,Victoria,Female,College,,Married,Nova,Standard,,0.0,0.0
+450735,Canada,Newfoundland,St. John's,Male,Bachelor,87804.0,Married,Nova,2018 Promotion,,77223.0,34.0
+453034,Canada,British Columbia,Vancouver,Male,College,,Married,Nova,Standard,,44038.0,42.0
+454609,Canada,British Columbia,West Vancouver,Male,Bachelor,99062.0,Single,Nova,Standard,,11946.0,6.0
+457605,Canada,Ontario,Toronto,Female,Bachelor,89781.0,Married,Aurora,Standard,,2019.0,1.0
+458029,Canada,Ontario,Toronto,Female,Bachelor,57510.0,Single,Star,Standard,,0.0,0.0
+479950,Canada,Quebec,Montreal,Male,College,,Married,Nova,Standard,,48005.0,35.0
+481531,Canada,Manitoba,Winnipeg,Male,Bachelor,88470.0,Married,Star,Standard,,0.0,0.0
+482169,Canada,British Columbia,Dawson Creek,Male,Bachelor,54340.0,Married,Nova,Standard,,49516.0,30.0
+499874,Canada,New Brunswick,Fredericton,Female,Bachelor,97976.0,Married,Aurora,Standard,,110103.0,76.0
+501854,Canada,Ontario,Trenton,Male,College,,Single,Star,Standard,,28945.0,24.0
+509345,Canada,Manitoba,Winnipeg,Female,Bachelor,85076.0,Married,Star,Standard,,38671.0,25.0
+516133,Canada,British Columbia,Vancouver,Female,Bachelor,77959.0,Married,Aurora,Standard,,77054.0,43.0
+526064,Canada,Yukon,Whitehorse,Male,Bachelor,96360.0,Married,Aurora,Standard,,22580.0,16.0
+539739,Canada,Ontario,Toronto,Male,Bachelor,28446.0,Married,Aurora,2018 Promotion,,101247.0,46.0
+543422,Canada,Quebec,Montreal,Male,College,,Married,Star,Standard,,64853.0,45.0
+556808,Canada,Ontario,Thunder Bay,Female,Bachelor,84901.0,Married,Star,Standard,,43760.0,31.0
+560713,Canada,New Brunswick,Fredericton,Male,College,,Single,Nova,Standard,,61705.0,49.0
+561321,Canada,Ontario,Sudbury,Male,College,,Married,Aurora,Standard,,47538.0,45.0
+561413,Canada,Quebec,Montreal,Female,Bachelor,82943.0,Divorced,Nova,Standard,,69087.0,49.0
+604328,Canada,Ontario,Toronto,Female,Bachelor,54982.0,Single,Star,Standard,,0.0,0.0
+607588,Canada,Ontario,Toronto,Male,Bachelor,59018.0,Married,Star,2018 Promotion,,96753.0,38.0
+607885,Canada,Ontario,Toronto,Male,Doctor,245769.0,Married,Star,Standard,,66502.0,45.0
+613804,Canada,Ontario,Toronto,Female,College,,Single,Star,Standard,,51586.0,34.0
+618817,Canada,Ontario,Toronto,Male,Bachelor,91479.0,Divorced,Aurora,Standard,,53786.0,38.0
+620741,Canada,Quebec,Montreal,Female,Bachelor,49989.0,Married,Star,Standard,,42022.0,25.0
+629753,Canada,New Brunswick,Moncton,Male,Bachelor,79989.0,Divorced,Nova,Standard,,78369.0,43.0
+634916,Canada,Saskatchewan,Regina,Female,College,,Married,Star,Standard,,41167.0,27.0
+647684,Canada,Ontario,Thunder Bay,Male,Master,125880.0,Divorced,Star,Standard,,56108.0,36.0
+657492,Canada,Ontario,Toronto,Male,Bachelor,101526.0,Divorced,Star,Standard,,71520.0,47.0
+659205,Canada,Saskatchewan,Regina,Male,College,,Single,Aurora,Standard,,68786.0,45.0
+676376,Canada,British Columbia,Vancouver,Male,Bachelor,74770.0,Married,Nova,Standard,,68834.0,50.0
+681309,Canada,Ontario,Trenton,Female,Bachelor,59661.0,Divorced,Star,Standard,,71415.0,46.0
+684103,Canada,Quebec,Tremblant,Male,College,,Single,Star,Standard,,5479.0,3.0
+696329,Canada,Ontario,Trenton,Female,College,,Married,Star,Standard,,60262.0,50.0
+716690,Canada,Nova Scotia,Halifax,Male,College,,Single,Aurora,Standard,,58303.0,39.0
+746853,Canada,British Columbia,Whistler,Female,Bachelor,55642.0,Married,Nova,Standard,,3220.0,3.0
+748174,Canada,Ontario,Toronto,Male,College,,Married,Star,Standard,,0.0,0.0
+770702,Canada,British Columbia,Vancouver,Female,Bachelor,67991.0,Married,Nova,Standard,,3916.0,4.0
+782818,Canada,British Columbia,Vancouver,Female,Bachelor,75231.0,Single,Star,Standard,,69078.0,44.0
+789826,Canada,British Columbia,Vancouver,Female,Bachelor,80186.0,Married,Star,Standard,,68711.0,45.0
+804784,Canada,Quebec,Montreal,Male,Bachelor,83224.0,Married,Star,Standard,,39908.0,24.0
+809587,Canada,British Columbia,Whistler,Female,Bachelor,103425.0,Married,Nova,Standard,,70914.0,40.0
+826149,Canada,New Brunswick,Fredericton,Female,College,,Single,Aurora,Standard,,48988.0,32.0
+830564,Canada,Ontario,Toronto,Female,College,,Divorced,Star,Standard,,77457.0,44.0
+851981,Canada,British Columbia,Victoria,Female,Bachelor,61813.0,Married,Aurora,Standard,,50135.0,35.0
+855922,Canada,Newfoundland,St. John's,Male,Doctor,67234.0,Single,Nova,Standard,,76573.0,48.0
+861415,Canada,Ontario,Kingston,Female,Bachelor,68728.0,Married,Star,Standard,,65290.0,46.0
+874161,Canada,British Columbia,Vancouver,Male,High School or Below,79939.0,Single,Star,2018 Promotion,,123531.0,57.0
+889796,Canada,Nova Scotia,Halifax,Female,Bachelor,79325.0,Married,Nova,Standard,,56750.0,48.0
+910056,Canada,Yukon,Whitehorse,Female,Bachelor,57458.0,Single,Star,Standard,,73728.0,37.0
+912757,Canada,Alberta,Edmonton,Male,Bachelor,69184.0,Divorced,Aurora,Standard,,73160.0,45.0
+921777,Canada,Saskatchewan,Regina,Male,Bachelor,87782.0,Married,Aurora,Standard,,47404.0,26.0
+924489,Canada,Ontario,Toronto,Female,College,,Married,Nova,Standard,,55996.0,43.0
+926277,Canada,Ontario,Toronto,Female,Bachelor,67261.0,Divorced,Aurora,Standard,,72405.0,47.0
+926451,Canada,Quebec,Hull,Male,Bachelor,65763.0,Married,Star,Standard,,55135.0,42.0
+929097,Canada,Ontario,Toronto,Male,College,,Married,Aurora,Standard,,57972.0,31.0
+933707,Canada,Quebec,Quebec City,Female,High School or Below,66441.0,Married,Star,Standard,,48474.0,35.0
+941194,Canada,New Brunswick,Moncton,Female,Bachelor,100264.0,Married,Aurora,Standard,,11517.0,6.0
+994219,Canada,Alberta,Edmonton,Male,Bachelor,103189.0,Married,Star,Standard,,2255.0,2.0
