@@ -15,15 +15,12 @@ This repository includes the following steps:
 
 ### A. Setup
 
-1. Clone the Docker setup from: [data-engineer-toolkit](https://github.com/galuhramaditya/data-engineer-toolkit)
-2. In the `docker-compose.yml`, append a Jupyter Notebook service below the Spark section.
-3. In the Dockerfile, add installation for `matplotlib`, `gdown`, `jupyter`, and `pandas`.
-4. Build and run the Docker containers:
+1. Clone this repo
+2. Build and run the Docker containers:
    ```bash
    docker compose --profile spark up -d --build
    ```
-5. Open JupyterLab at [http://localhost:8888/lab/](http://localhost:8888/lab/)
-6. Save all files in a folder named `work`.
+3. Open JupyterLab at [http://localhost:8888/lab/](http://localhost:8888/lab/)
 
 ### B. Prepare Libraries and Data
 
